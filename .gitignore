@@ -1,1 +1,95 @@
+# ============================================================
+# ARCHIVOS TEMPORALES DE LATEX Y OVERLEAF
+# ============================================================
 
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.dvi
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex
+*.synctex.gz
+*.synctex(busy)
+*.toc
+*.vrb
+*.xdv
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+*.loa
+*.lol
+*.maf
+*.mtc
+*.mtc0
+*.nlo
+*.nls
+*.spl
+*.thm
+
+# Carpetas temporales de paquetes LaTeX
+_minted-*/
+auto/
+
+# ============================================================
+# ARCHIVOS TEMPORALES DEL SISTEMA OPERATIVO
+# ============================================================
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ============================================================
+# ARCHIVOS TEMPORALES DE EDITORES
+# ============================================================
+
+*.swp
+*.swo
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+.vscode/
+.idea/
+
+# ============================================================
+# ARCHIVOS TEMPORALES DE DRAW.IO
+# ============================================================
+
+*.drawio.bkp
+*.drawio.tmp
+.~lock.*.drawio#
+
+# ============================================================
+# ARCHIVOS TEMPORALES DE MICROSOFT OFFICE
+# ============================================================
+
+~$*.doc
+~$*.docx
+~$*.xls
+~$*.xlsx
+~$*.ppt
+~$*.pptx
+
+# ============================================================
+# ARCHIVOS DE COMPRESIÓN TEMPORALES
+# ============================================================
+
+*.7z
+*.rar
+
+# Los archivos PDF y ZIP no se ignoran porque el repositorio
+# incluye el informe, datasheets y posibles fuentes de Overleaf.
